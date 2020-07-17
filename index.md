@@ -11,7 +11,7 @@ Welcome to my portfolio! I am currently pursuing an undergraduate degree in Comp
 - Developed Java application that stores reminder objects that can be sorted by various categories. 
 - Performed as team lead, developed scrum goals, and used a simple lifecycle that involved design (using MVC architecture), implementation, and integration of several individually developed modules.
 
-### Git Up and Move
+### Get Up and Move
 
 - Developed IOS application that uses Google Maps API to display local restaurants. 
 - Once a restaurant is selected from the list, the user is presented with a cardinal direction to walk. 
