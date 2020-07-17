@@ -5,6 +5,7 @@ Welcome to my portfolio! I am currently pursuing an undergraduate degree in Comp
 ## Personal Projects 
 [My GitHub](https://github.com/danieljevans)
 
+
 ### To-Do List
 
 - Developed Java application that stores reminder objects that can be sorted by various categories. 
