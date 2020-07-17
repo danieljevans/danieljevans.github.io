@@ -1,10 +1,8 @@
-## Technical Portfolio by Daniel Evans
+# Technical Portfolio by Daniel Evans
 
-Welcome to my portfolio! 
+Welcome to my portfolio! I am currently pursuing an undergraduate degree in Computer Systems at the Ira A. Fulton School of Engineering and earning a master’s degree in Computer Science. I will apply the skills I have acquired from my IT, process engineering, and software engineering experiences to my software development career.
 
-
-
-### Markdown
+## Personal Projects
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
