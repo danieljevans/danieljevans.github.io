@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! I am currently pursuing an undergraduate degree in Computer Systems at the Ira A. Fulton School of Engineering and earning a master’s degree in Computer Science. I will apply the skills I have acquired from my IT, process engineering, and software engineering experiences to my software development career.
 
-## Personal Projects
+## Personal Projects 
 [My GitHub](https://github.com/danieljevans)
 
 ### To-Do List
